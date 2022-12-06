@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var browser = prompt('bạn đang sử dụng trình duyệt gì ')
+        switch (browser){
+            case 'edge':
+                alert ("Tuyệt! Trang web của chúng tôi hoàn toàn hỗ trọ trình duyệt này");
+                    break;
+            case 'chrome':
+            case 'firefox':
+            case 'opera': 
+                alert ('Trang web này vẫn hoạt động ổn trên trình duyệt của bạn');
+                    break;
+            default:
+                alert ('Chúng tôi không hỗ trợ trình duyệt của bạn');
+                alert ('Vui lòng sử dụng trình duyệt Edge để có trải nghiệm tốt nhất');
+        }
+    </script>
+</body>
+</html>
