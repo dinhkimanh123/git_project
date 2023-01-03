@@ -1,0 +1,75 @@
+.theH2 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    border-bottom: 1px solid black;
+}
+
+
+.kim {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.tung {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder ;
+}
+
+.anh {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.vu {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.mot {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.right {
+    float: right;
+    width: 380px;
+    height: 250px;
+    /* background-color: gainsboro; */
+    /* border-radius: 5px; */
+    /* margin: 25px;
+    padding: 25px; */
+}
+
+.right1 {
+    float: right;
+    width: 380px;
+    height: 250px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;
+}
+
+.right2 {
+    /* float: right; */
+    width: 380px;
+    height: 250px;
+    /* background-color: gainsboro;
+    border-radius: 5px;
+    margin: 25px; */
+    padding: 25px;
+}
+
+.a{
+    float: right;
+    width: 380px;
+    height: 250px;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    margin: 25px;
+    padding: 25px;
+}
+
+button {
+    border:1px solid blue ;
+    border: 1px solid gray;
+    
+}
